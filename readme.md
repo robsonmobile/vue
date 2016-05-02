@@ -1,6 +1,6 @@
 # Vue Js #
 ## Instructions ##
-1 - Clone repository
-2 - On directory root: run npm install
+<p>1 - Clone repository</p>
+<p>2 - On directory root: run npm install</p>
 
-=D
+<p>=D</p>
